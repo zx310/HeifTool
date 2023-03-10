@@ -1,5 +1,5 @@
 /*
- * heif_encoder_dummp.cpp
+ * heif_encoder_dummy.cpp
  *
  *  Created on: Feb 28, 2023
  *      Author: zhouxin
