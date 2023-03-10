@@ -2,7 +2,7 @@
 a tool use libheif only to make change from hecv to heic
 
 # usage
-
+```
 void show_help(const char *argv0)
 {
 	printf("heif-mux  libheif version: %s\n", heif_get_version());
@@ -13,3 +13,4 @@ void show_help(const char *argv0)
 	printf(" -h --height, set iutput img height\n");
 	printf(" -o --ouput, output filename (optional)\n");
 }
+```
