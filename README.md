@@ -1,5 +1,6 @@
 # HeifTool
 a tool use libheif only to make change from hecv to heic
+这个代码示例可以轻松的将hevc/h265的I帧包装成heic文件，特别实用
 
 # usage
 ```
